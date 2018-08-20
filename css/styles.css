@@ -1,0 +1,7 @@
+.hidden {
+  display: none;
+}
+
+.line {
+  text-decoration-line: line-through;
+}
